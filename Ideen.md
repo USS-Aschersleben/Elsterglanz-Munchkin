@@ -12,5 +12,11 @@
   * 1kg Mett
   * Sternburg
   * Schlüssel zur Weibersauna
-  * Jetreide!
   * Elektrozaun
+
+* Effekte
+  * Effekt: Jetreide!
+  * Matroschkaautismus
+  * Warschauer Wippe
+  
+* Flüche / Fallen

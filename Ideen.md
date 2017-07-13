@@ -8,6 +8,7 @@
   * T-Rex
   * Olaf Kaspriki (Der Herr der Ringe)
   * Schienenersatzverkehr (Du kannst ohne Würfeln wegrennen, kommt eh immer zu Spät)
+  * Stasi Leute (machen dich eisekalt! +5 wenn du keine Rüstung trägst)
   
 * Schätze
   * 3er Verteiler
@@ -24,5 +25,7 @@
   * Warschauer Wippe
   * Monsterverstärker: ... aus Samoa
   
+  
 * Flüche / Fallen
   * Helmpflicht (Verliere eine Stufe wenn du keine Kopfbedeckung hast)
+  * Ronny! (Der/Die Spieler(in) wird zum Ronny ... negative effekte: viele)

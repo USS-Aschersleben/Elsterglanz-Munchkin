@@ -15,7 +15,7 @@
   * Elektrozaun
 
 * Effekte
-  * Effekt: Jetreide!
+  * Jetreide!
   * Matroschkaautismus
   * Warschauer Wippe
   

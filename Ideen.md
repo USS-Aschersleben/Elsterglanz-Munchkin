@@ -18,5 +18,6 @@
   * Jetreide!
   * Matroschkaautismus
   * Warschauer Wippe
+  * Monsterverstärker: ... aus Samoa
   
 * Flüche / Fallen

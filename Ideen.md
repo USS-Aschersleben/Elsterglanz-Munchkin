@@ -5,6 +5,7 @@
   * Klingone
   * Gilli
   * Svenni
+  * T-Rex
   
 * Schätze
   * 3er Verteiler
@@ -12,3 +13,4 @@
   * Sternburg
   * Schlüssel zur Weibersauna
   * Jetreide!
+  * Elektrozaun

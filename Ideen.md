@@ -6,6 +6,7 @@
   * Gilli
   * Svenni
   * T-Rex
+  * Schienenersatzverkehr (Du kannst ohne Würfeln wegrennen, kommt eh immer zu Spät)
   
 * Schätze
   * 3er Verteiler
@@ -21,3 +22,4 @@
   * Monsterverstärker: ... aus Samoa
   
 * Flüche / Fallen
+  * Helmpflicht (Klaue wem die Kopfbedeckung)

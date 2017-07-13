@@ -1,10 +1,10 @@
 # Ideen Liste
 
 * Monster
-  * Machdeburjer Vorel Jesangs Vaein
+  * Machdeburjer Vorel Jesangs Vaein (-3 wenn man es richtig ausspricht? in normal leserlichem deutsch schreiben, machteburjerisch aussprechen?)
   * Klingone
-  * Gilli
-  * Svenni
+  * Gilli (Svenni darf ohne Wanderndes Monster dazugelegt werden)
+  * Svenni (Gilli darf ohne wanderndes Monster dazugelegt werden)
   * T-Rex
   * Olaf Kaspriki (Der Herr der Ringe)
   * Schienenersatzverkehr (Du kannst ohne Würfeln wegrennen, kommt eh immer zu Spät)

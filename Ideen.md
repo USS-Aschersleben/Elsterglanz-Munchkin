@@ -20,11 +20,10 @@
   * Crossschutzblech Nachbildung
 
 * Effekte
-  * Jetreide!
+  * Jetreide! (ABBRUCH! alles was ausgespielt wurde, wandert auf den Ablagestapel, gilt auch außerhalb des kampfes, z.b. bei flüchen etc.)
   * Matroschkaautismus
   * Warschauer Wippe
   * Monsterverstärker: ... aus Samoa
-  
   
 * Flüche / Fallen
   * Helmpflicht (Verliere eine Stufe wenn du keine Kopfbedeckung hast)

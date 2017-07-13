@@ -6,6 +6,7 @@
   * Gilli
   * Svenni
   * T-Rex
+  * Olaf Kaspriki (Der Herr der Ringe)
   * Schienenersatzverkehr (Du kannst ohne Würfeln wegrennen, kommt eh immer zu Spät)
   
 * Schätze
@@ -14,6 +15,8 @@
   * Sternburg
   * Schlüssel zur Weibersauna
   * Elektrozaun
+  * 2 Makreeln (Kopfbedeckung)
+  * Crossschutzblech Nachbildung
 
 * Effekte
   * Jetreide!
@@ -22,4 +25,4 @@
   * Monsterverstärker: ... aus Samoa
   
 * Flüche / Fallen
-  * Helmpflicht (Klaue wem die Kopfbedeckung)
+  * Helmpflicht (Verliere eine Stufe wenn du keine Kopfbedeckung hast)

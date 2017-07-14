@@ -32,5 +32,5 @@
   
 * Flüche / Fallen
   * Helmpflicht (Verliere eine Stufe wenn du keine Kopfbedeckung hast)
-  * Ronny! (Der/Die Spieler(in) wird zum Ronny ... negative effekte: viele)
+  * Ronny! (Der/Die Spieler(in) wird zum Ronny ... negative effekte: viele) (Du kannst jarnischt, verliere deine Rassen und Klassen und Schummelkarten))
   * Scheiß Nebenkosten (Verliere dein das Stück Ausrüstung mit dem höchstem Goldwert)

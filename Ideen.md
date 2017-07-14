@@ -8,7 +8,10 @@
   * T-Rex
   * Olaf Kaspriki (Der Herr der Ringe)
   * Schienenersatzverkehr (Du kannst ohne Würfeln wegrennen, kommt eh immer zu Spät)
+  * Altstoffhandel Besitzer
+    * Stingerraketen zählen doppelt
   * Stasi Leute (machen dich eisekalt! +5 wenn du keine Rüstung trägst)
+  * So ein kleines Kaninchen
   
 * Schätze
   * 3er Verteiler
@@ -16,8 +19,10 @@
   * Sternburg
   * Schlüssel zur Weibersauna
   * Elektrozaun
-  * 2 Makreeln (Kopfbedeckung)
+  * 2 Makreeln (Kopfbedeckung)  (Evtl. als Monster, das wenn es besiegt wird als Kopfbedeckung getragen werden kann)
   * Crossschutzblech Nachbildung
+  * Volljeschissene Aktentasche
+  * Stingerraketen
 
 * Effekte
   * Jetreide! (ABBRUCH! alles was ausgespielt wurde, wandert auf den Ablagestapel, gilt auch außerhalb des kampfes, z.b. bei flüchen etc.)
@@ -28,3 +33,4 @@
 * Flüche / Fallen
   * Helmpflicht (Verliere eine Stufe wenn du keine Kopfbedeckung hast)
   * Ronny! (Der/Die Spieler(in) wird zum Ronny ... negative effekte: viele)
+  * Scheiß Nebenkosten (Verliere dein das Stück Ausrüstung mit dem höchstem Goldwert)

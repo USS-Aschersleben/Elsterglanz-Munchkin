@@ -8,6 +8,7 @@
   * T-Rex
   * Olaf Kaspriki (Der Herr der Ringe)
   * Schienenersatzverkehr (Du kannst ohne Würfeln wegrennen, kommt eh immer zu Spät)
+    * Zum  Schienenersatzverkehr kann jeder ein beliebiges Monster reinwerfen ohne Wandelnded Monster, (Weglaufen funktioniert aber trotzdem Automatisch für alle)
   * Altstoffhandel Besitzer
     * Stingerraketen zählen doppelt
   * Stasi Leute (machen dich eisekalt! +5 wenn du keine Rüstung trägst)
@@ -33,4 +34,4 @@
 * Flüche / Fallen
   * Helmpflicht (Verliere eine Stufe wenn du keine Kopfbedeckung hast)
   * Ronny! (Der/Die Spieler(in) wird zum Ronny ... negative effekte: viele) (Du kannst jarnischt, verliere deine Rassen und Klassen und Schummelkarten))
-  * Scheiß Nebenkosten (Verliere dein das Stück Ausrüstung mit dem höchstem Goldwert)
+  * Scheiß Nebenkosten (Verliere das Stück Ausrüstung mit dem höchstem Goldwert)

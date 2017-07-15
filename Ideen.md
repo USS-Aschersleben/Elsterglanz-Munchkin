@@ -17,12 +17,12 @@
 * Schätze
   * 3er Verteiler
   * 1kg Mett
-  * Sternburg
+  * Sternburg (Du kannst dich ohne Würfelwurf aus dem Kampf Exportieren)
   * Schlüssel zur Weibersauna
   * Elektrozaun
   * 2 Makreeln (Kopfbedeckung)  (Evtl. als Monster, das wenn es besiegt wird als Kopfbedeckung getragen werden kann)
   * Crossschutzblech Nachbildung
-  * Volljeschissene Aktentasche
+  * Volljeschissene Aktentasche (Die Nasenmonster laufen einfach so weg, alle anderen haben -5 weil sie sich bei dem Gestank nicht konzentrieren können)
   * Stingerraketen
   * Elsterglanz - Nur an Metall Rüstung/Waffen anlegbar gibt +1
 

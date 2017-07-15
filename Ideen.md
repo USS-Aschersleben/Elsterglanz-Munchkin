@@ -24,6 +24,7 @@
   * Crossschutzblech Nachbildung
   * Volljeschissene Aktentasche
   * Stingerraketen
+  * Elsterglanz - Nur an Metall Rüstung/Waffen anlegbar gibt +1
 
 * Effekte
   * Jetreide! (ABBRUCH! alles was ausgespielt wurde, wandert auf den Ablagestapel, gilt auch außerhalb des kampfes, z.b. bei flüchen etc.)
